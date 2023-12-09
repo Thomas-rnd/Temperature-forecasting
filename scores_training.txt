@@ -1,0 +1,19 @@
+Conv basic:
+
+17 epchs
+Mean Absolute Error (MAE): 0.2411
+Mean Absolute Percentage Error (MAPE): 1.6127
+Root Mean Squared Error (RMSE): 0.2983
+
+Conv LSTM:
+35 epochs
+Mean Absolute Error (MAE): 0.2003
+Mean Absolute Percentage Error (MAPE): 1.4153
+Root Mean Squared Error (RMSE): 0.2492
+
+
+Conv LSTM Attention
+35 epochs
+Mean Absolute Error (MAE): 0.4105
+Mean Absolute Percentage Error (MAPE): 2.6347
+Root Mean Squared Error (RMSE): 0.5224
