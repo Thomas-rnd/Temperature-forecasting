@@ -18,6 +18,8 @@ Meteorological data from the ERA5 Reanalysis dataset was used, covering hourly e
 
 Eight features were selected based on an Exhaustive Feature Search (EFS), and the dataset was split into training, validation, and testing sets. Monthly averages were computed for each coordinate, creating a supervised time series dataset.
 
+![Data preprocessing](https://github.com/Thomas-rnd/temperature_forecasting/blob/main/images/5ddata_image.jpg)
+
 ### 2.3 Model Architectures
 
 Three models were explored:
@@ -37,6 +39,8 @@ This model incorporates a ProbSparse Attention Layer to enhance spatial-temporal
 ## 3. Results and Analysis
 
 View the results and analysis in the [Final_Report.pdf](https://github.com/Thomas-rnd/temperature_forecasting/blob/main/Final_Report.pdf) file.
+
+![Results](https://github.com/Thomas-rnd/temperature_forecasting/blob/main/images/temperatures_forecast_CNN-LSTM_Pohang-si.png)
 
 ## 4. Conclusion
 
