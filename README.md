@@ -36,7 +36,7 @@ This model incorporates a ProbSparse Attention Layer to enhance spatial-temporal
 
 ## 3. Results and Analysis
 
-View the results and analysis in the [Final_Report.pdf](URL) file.
+View the results and analysis in the [Final_Report.pdf](https://github.com/Thomas-rnd/temperature_forecasting/blob/main/Final_Report.pdf) file.
 
 ## 4. Conclusion
 
